@@ -53,3 +53,6 @@ Power BI • DAX • Modelagem de Dados • Storytelling
 ---
 
 Este repositório tem foco exclusivamente visual, reunindo dashboards completos e visuais conceituais usados como portfólio profissional.
+
+📫 Contato: linkedin.com/in/datajoedata
+
